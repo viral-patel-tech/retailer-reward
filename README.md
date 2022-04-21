@@ -18,6 +18,9 @@
   * Post endpoint 
     * Post endpoint can be used to create new transaction.
     * `localhost:8080/createTransaction`
+      * Keep in mind that the amount is accepted in the form of cents
+      * For Example:
+        * $1 = 100
 
 
 ## Swagger implementation
